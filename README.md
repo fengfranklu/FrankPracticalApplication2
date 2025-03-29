@@ -49,7 +49,7 @@ The data set has 426k records and 18 features:
 
 ## Notebooks:
 
-[Frank_Practical_Application2_What_Drives_the_price_of_a_car.ipynb]()
+[Frank_Practical_Application2_What_Drives_the_price_of_a_car.ipynb]
 
 ## Analysis:
 
